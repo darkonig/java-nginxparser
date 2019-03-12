@@ -1,7 +1,7 @@
 // Generated from Nginx.g4 by ANTLR 4.5.3
 
     package com.dk.parser.nginxparser.antlr;
-    import com.github.odiszapc.nginxparser.*;
+    import com.dk.parser.nginxparser.*;
 
 import org.antlr.v4.runtime.tree.ParseTreeVisitor;
 
