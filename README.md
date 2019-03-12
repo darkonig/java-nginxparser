@@ -15,9 +15,9 @@ This library helps in analyzing Nginx web server configuration files, looking up
 Add the following dependency to your POM:
 ```xml
 <dependency>
-    <groupId>com.github.odiszapc</groupId>
+    <groupId>com.dk.parser</groupId>
     <artifactId>nginxparser</artifactId>
-    <version>0.9.3</version>
+    <version>1.0.0</version>
 </dependency>
 ```
 
