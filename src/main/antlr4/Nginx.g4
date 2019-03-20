@@ -1,8 +1,8 @@
 grammar Nginx;
 
 @parser::header {
-    package com.dk.parser.nginxparser.antlr;
-    import com.dk.parser.nginxparser.*;
+    package com.darkonig.parser.nginxparser.antlr;
+    import com.darkonig.parser.nginxparser.*;
 }
 
 @lexer::header {
